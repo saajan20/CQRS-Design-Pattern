@@ -1,0 +1,2 @@
+insert into Account_Command_Model values ('1837440',45459.03,'savings','ADMIN','Wed Feb 05 11:34:05 IST 2020','100','credit-card bill payment service','Wed Feb 05 11:50:05 IST 2020');
+insert into Account_Query_Model values ('1837440',45459.03,'savings','ADMIN','Wed Feb 05 11:34:05 IST 2020','100','credit-card bill payment service','Wed Feb 05 11:50:05 IST 2020')
